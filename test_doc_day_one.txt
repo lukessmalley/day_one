@@ -2,4 +2,5 @@ Hello! This is a test.
 
 This is the second edit to the file.
 
-Adding last line 
+This is another line, that causes merge conflicts.
+
